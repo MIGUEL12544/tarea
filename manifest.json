@@ -1,6 +1,6 @@
 {
-    "name": "Reloj",
-    "short_name": "Reloj",
+    "name": "colores",
+    "short_name": "coloree",
     "theme_color": "#2196f3",
     "background_color": "#2196f3",
     "display": "fullscreen",
